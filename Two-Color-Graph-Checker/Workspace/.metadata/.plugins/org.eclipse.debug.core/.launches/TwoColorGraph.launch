@@ -7,6 +7,6 @@
 <listEntry value="1"/>
 </listAttribute>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="TwoColorGraph"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="data/smallgraph.txt"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="data/largegraph3.txt"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Graph Two Color"/>
 </launchConfiguration>
